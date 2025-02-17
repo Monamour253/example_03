@@ -6,3 +6,4 @@ This will be my first file on GitHub.
 - Vytvoříme konflikt - přidáme řádek
 - Tady bude konfliktní řádek.
 > A pak konflikt zase vyřešíme!
+- Přidání dalšího řádku.
